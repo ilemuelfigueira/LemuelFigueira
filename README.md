@@ -1,5 +1,5 @@
   <p align="center">
-    [![banner](./banner.png)](https://github.com/LuanderFarias)
+    <img src="./banner.png" alt="banner" />
   </p>
 
   <p align="center">
