@@ -72,7 +72,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=LemuelFigueira&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=nft-preview-card-component&theme=tokyonight">
     </img>
   </a>
 </p>
