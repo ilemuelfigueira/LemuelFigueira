@@ -1,4 +1,6 @@
-[![banner](./banner.png)](https://github.com/LuanderFarias)
+  <p align="center">
+    [![banner](./banner.png)](https://github.com/LuanderFarias)
+  </p>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
