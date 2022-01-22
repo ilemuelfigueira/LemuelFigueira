@@ -92,11 +92,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LemuelFigueira/nft-preview-card-component">
+  <a href="https://github.com/LemuelFigueira/dev-finder">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=nft-preview-card-component&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=dev-finder&theme=tokyonight">
     </img>
   </a>
 </p>
