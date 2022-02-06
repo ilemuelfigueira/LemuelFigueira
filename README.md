@@ -92,11 +92,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LemuelFigueira/dev-finder">
+  <a href="https://github.com/LemuelFigueira/rastreio-svelte">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=dev-finder&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=rastreio-svelte&theme=tokyonight">
     </img>
   </a>
 </p>
