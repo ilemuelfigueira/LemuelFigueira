@@ -92,11 +92,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LemuelFigueira/rastreio-svelte">
+  <a href="https://github.com/LemuelFigueira/crypto-chart-list">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=rastreio-svelte&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=crypto-chart-list&theme=tokyonight">
     </img>
   </a>
 </p>
