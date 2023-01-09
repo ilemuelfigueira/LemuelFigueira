@@ -92,7 +92,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LemuelFigueira/crypto-chart-list">
+  <a href="https://github.com/LemuelFigueira/liscrap-service">
     <img
       align="center"
       height="120em"
