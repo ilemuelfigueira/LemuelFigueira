@@ -92,11 +92,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/LemuelFigueira/liscrap-service">
+  <a href="https://github.com/LemuelFigueira/linscrap-service">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=liscrap-service&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=LemuelFigueira&repo=linscrap-service&theme=tokyonight">
     </img>
   </a>
 </p>
